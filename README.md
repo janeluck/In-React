@@ -10,4 +10,6 @@
 
 ### 源码解读
 
+
 - [Dive into React codebase: Handling state changes](https://reactkungfu.com/2016/03/dive-into-react-codebase-handling-state-changes/)
+- [Understanding The React Source Code - UI Updating (DOM Tree) IX](https://holmeshe.me/understanding-react-js-source-code-virtual-dom-diff-IX/)
